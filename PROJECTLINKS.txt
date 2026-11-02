@@ -1,0 +1,5 @@
+Project Title: Unsupervised Land-Type Discovery from Satellite Image Patch Features
+Problem Statement ID: <fill>
+Registration Numbers of All Group Members: <fill>
+GitHub Repository Link: <fill>
+Live Deployed Project Link: <fill>

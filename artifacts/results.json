@@ -1,0 +1,37 @@
+{
+  "n_images": 4000,
+  "n_features": 19,
+  "n_pc_95": 6,
+  "chosen_k": 4,
+  "tsne_kl": {
+    "10": 1.0685710906982422,
+    "30": 0.9809519052505493,
+    "50": 0.8891209959983826
+  },
+  "tsne_vs_pca": {
+    "silhouette_on_tsne": 0.4489173889160156,
+    "ARI_pca_vs_tsne_clusters": 0.47106147299508927
+  },
+  "posthoc": {
+    "ARI": 0.21379228009016038,
+    "NMI": 0.362561696490827
+  },
+  "label_map": {
+    "0": {
+      "class_": "HerbaceousVegetation",
+      "purity": 0.2004621606008088
+    },
+    "1": {
+      "class_": "Industrial",
+      "purity": 0.5934959349593496
+    },
+    "2": {
+      "class_": "Forest",
+      "purity": 0.4208782104391052
+    },
+    "3": {
+      "class_": "PermanentCrop",
+      "purity": 0.4988814317673378
+    }
+  }
+}

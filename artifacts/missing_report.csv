@@ -1,0 +1,20 @@
+,0
+R_mean,0
+G_mean,0
+B_mean,0
+R_std,0
+G_std,0
+B_std,0
+Hue_mean,0
+Sat_mean,0
+Sat_std,0
+Val_mean,0
+Val_std,0
+ExG_mean (greenness),0
+ExG_std,0
+GR_index (veg),0
+GB_index (water),0
+Edge_mean,0
+Edge_std,0
+Laplacian_var (texture),0
+Gray_entropy,0
