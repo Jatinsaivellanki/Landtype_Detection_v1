@@ -1026,6 +1026,7 @@ with tab_galaxy:
             yaxis_title="t-SNE Dimension 2"
         )
 
+
     fig_galaxy.update_layout(
         paper_bgcolor="rgba(0,0,0,0)",
         plot_bgcolor="rgba(15,23,42,0.6)",
